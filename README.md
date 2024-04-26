@@ -65,4 +65,4 @@ The logistic model presented here performs very well on this synthetic dataset w
 
 The main purpose of this analysis is reliably predict *high risk* loans as these type of loans pose the greatest financial risk to lenders. Given this synthetic dataset, this model can predict *high risk* loans with high precision 0.872 which means that the model will correctly predict *high risk* loans 87.2% of the time. The *recall* percentage of *high risk* loans is 0.978 which means out of all the predicted *high risk* loans, 97.8% of these predictions will be correct.
 
-Before I could recommend this model, I would like to see this model trained and run on a real world dataset, not a synthetic relationship dataset. All of these "accuracy", "precision" and "recall" parameters are very good and reflect a controlled model.
+Before I could recommend this model, I would like to see this model trained and run on a real world dataset, not a synthetic relationship dataset. The extremely high scores of "accuracy", "precision" and "recall" parameters reflect the synthetic dataset.
